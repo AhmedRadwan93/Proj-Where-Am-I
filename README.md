@@ -10,6 +10,6 @@
 Notes: 
 - Simulation setup have the appropriate number of landmarks or geometric features to perform localization.
 - Launch file contains all required nodes:
-       - Map Server node map_server
-       - AMCL node amcl
-       - Move Base node move_base
+    - Map Server node map_server
+    - AMCL node amcl
+    - Move Base node move_base
